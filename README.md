@@ -10,8 +10,8 @@ go run .
 
 ## Controls
 
-- `w` / `a` / `s` / `d` or arrow keys — move
-- `q` / `Esc` — quit
-- `r` — restart after game over
+- `w` / `a` / `s` / `d` or arrow keys: move
+- `q` / `Esc`: quit
+- `r`: restart after game over
 
 Speed ramps up as your score climbs.
