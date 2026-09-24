@@ -15,3 +15,7 @@ go run .
 - `r`: restart after game over
 
 Speed ramps up as your score climbs.
+
+## License
+
+MIT License, see [LICENSE](LICENSE).
